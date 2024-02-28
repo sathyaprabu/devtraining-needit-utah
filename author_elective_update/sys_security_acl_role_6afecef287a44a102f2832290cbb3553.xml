@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
+        <sys_created_on>2024-02-28 00:27:02</sys_created_on>
+        <sys_id>6afecef287a44a102f2832290cbb3553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_needit">92fecef287a44a102f2832290cbb3535</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6afecef287a44a102f2832290cbb3553</sys_update_name>
+        <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
+        <sys_updated_on>2024-02-28 00:27:02</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>45ea9ea2dbc3799492f5684e13961967</instance_id>
+        <instance_name>empsathyav</instance_name>
+        <name>sys_security_acl_role_6afecef287a44a102f2832290cbb3553</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by><sys_created_on>2024-02-28 00:27:02</sys_created_on><sys_id>6afecef287a44a102f2832290cbb3553</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit.admin</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_security_acl display_value="x_58872_needit_needit">92fecef287a44a102f2832290cbb3535</sys_security_acl><sys_update_name>sys_security_acl_role_6afecef287a44a102f2832290cbb3553</sys_update_name><sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by><sys_updated_on>2024-02-28 00:27:02</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1543432808</payload_hash>
+        <record_name>x_58872_needit_needit.admin</record_name>
+        <reverted_from/>
+        <source>b47bca3287a44a102f2832290cbb35b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
+        <sys_created_on>2024-02-28 00:27:02</sys_created_on>
+        <sys_id>2efecef287a44a102f2832290cbb3557</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ded1b8cfd0000001</sys_recorded_at>
+        <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
+        <sys_updated_on>2024-02-28 00:27:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>62fecef256a44a10f789e42715397b57</update_guid>
+        <update_guid_history>62fecef256a44a10f789e42715397b57:-1543432808</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_needit.admin">4f5f863687a44a102f2832290cbb3593</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
+        <sys_created_on>2024-02-28 00:28:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>400a541723e548a8868b495124a7a091</sys_id>
+        <sys_metadata>6afecef287a44a102f2832290cbb3553</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit.admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">92fecef287a44a102f2832290cbb3535</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6afecef287a44a102f2832290cbb3553</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6afecef287a44a102f2832290cbb3553">2efecef287a44a102f2832290cbb3557</sys_update_version>
+        <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
+        <sys_updated_on>2024-02-28 00:28:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
