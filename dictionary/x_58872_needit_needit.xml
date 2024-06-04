@@ -22,5 +22,6 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="When Needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+        <element label="CS7394263" max_length="256" name="x_cs7394263" type="string"/>
     </element>
 </database>
